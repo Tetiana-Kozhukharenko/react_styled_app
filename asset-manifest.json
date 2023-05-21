@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_styled_app/static/css/main.bfb93c74.css",
+    "main.js": "/react_styled_app/static/js/main.73e107f6.js",
+    "static/js/787.407af69c.chunk.js": "/react_styled_app/static/js/787.407af69c.chunk.js",
+    "static/media/padlock.png": "/react_styled_app/static/media/padlock.273a36a96e769e685e44.png",
+    "index.html": "/react_styled_app/index.html",
+    "main.bfb93c74.css.map": "/react_styled_app/static/css/main.bfb93c74.css.map",
+    "main.73e107f6.js.map": "/react_styled_app/static/js/main.73e107f6.js.map",
+    "787.407af69c.chunk.js.map": "/react_styled_app/static/js/787.407af69c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfb93c74.css",
+    "static/js/main.73e107f6.js"
+  ]
+}
